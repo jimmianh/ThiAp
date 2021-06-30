@@ -1,0 +1,6 @@
+C:\Users\DELL\RiderProjects\T2009M1_CSharp\ShopToys\bin\Debug\ShopToys.exe
+C:\Users\DELL\RiderProjects\T2009M1_CSharp\ShopToys\bin\Debug\ShopToys.pdb
+C:\Users\DELL\RiderProjects\T2009M1_CSharp\ShopToys\obj\Debug\ShopToys.csproj.AssemblyReference.cache
+C:\Users\DELL\RiderProjects\T2009M1_CSharp\ShopToys\obj\Debug\ShopToys.csproj.CoreCompileInputs.cache
+C:\Users\DELL\RiderProjects\T2009M1_CSharp\ShopToys\obj\Debug\ShopToys.exe
+C:\Users\DELL\RiderProjects\T2009M1_CSharp\ShopToys\obj\Debug\ShopToys.pdb

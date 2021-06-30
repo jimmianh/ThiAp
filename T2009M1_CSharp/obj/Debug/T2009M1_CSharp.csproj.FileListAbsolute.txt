@@ -1,0 +1,6 @@
+C:\Users\DELL\RiderProjects\T2009M1_CSharp\T2009M1_CSharp\bin\Debug\T2009M1_CSharp.exe
+C:\Users\DELL\RiderProjects\T2009M1_CSharp\T2009M1_CSharp\bin\Debug\T2009M1_CSharp.pdb
+C:\Users\DELL\RiderProjects\T2009M1_CSharp\T2009M1_CSharp\obj\Debug\T2009M1_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\RiderProjects\T2009M1_CSharp\T2009M1_CSharp\obj\Debug\T2009M1_CSharp.exe
+C:\Users\DELL\RiderProjects\T2009M1_CSharp\T2009M1_CSharp\obj\Debug\T2009M1_CSharp.pdb
+C:\Users\DELL\RiderProjects\T2009M1_CSharp\T2009M1_CSharp\obj\Debug\T2009M1_CSharp.csproj.AssemblyReference.cache
